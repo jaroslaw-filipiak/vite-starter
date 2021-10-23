@@ -10,7 +10,11 @@ module.exports = {
     container: {
       center: true,
     },
-    extend: {},
+    extend: {
+      screens: {
+        fullhd: "1640px",
+      },
+    },
   },
   variants: {
     extend: {},
