@@ -1,7 +1,13 @@
-h1 {
-  @apply border opacity-20;
-}
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700;800&display=swap");
 
 body {
-  @apply bg-blue-700;
+  @apply bg-gray-800 text-white;
+}
+
+h1 {
+  @apply m-10 text-3xl;
+}
+
+p {
+  @apply m-10 text-xl;
 }
