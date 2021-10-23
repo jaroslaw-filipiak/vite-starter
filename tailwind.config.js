@@ -7,6 +7,9 @@ module.exports = {
       serif: ["ui-serif", "Georgia"],
       body: ['"Open Sans"'],
     },
+    container: {
+      center: true,
+    },
     extend: {},
   },
   variants: {
