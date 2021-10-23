@@ -1,5 +1,8 @@
 # vite.js + tailwind + vite.config
 
+- debug screen
+- custom fonts
+
 ## Install
 
 ```sh
