@@ -1,10 +1,10 @@
 # vite.js + tailwind + vite.config
 
-## Instalacja
+## Install
 
 ```sh
-yarn install 
-yarn dev
+yarn install
+yarn dev or yarn build --watch
 ```
 
 ## Build
